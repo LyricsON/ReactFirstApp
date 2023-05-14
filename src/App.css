@@ -1,3 +1,25 @@
+.nnn {
+  margin-bottom: 50px;
+}
+
+.fff {
+  margin-bottom: 50px;
+}
+
+.ttt {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.adr {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.aze {
+  margin: 0 auto;
+}
+
 .App {
   text-align: center;
 }
